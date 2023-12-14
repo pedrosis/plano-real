@@ -1,4 +1,0 @@
-<!-- Passos para dar upload no GitHub -->
-<!-- 1º git init -->
-<!-- 2º git commit -m "nome-versao" -->
-<!-- 3º git push -u origin master -->
